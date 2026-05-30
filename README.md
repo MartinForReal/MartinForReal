@@ -9,17 +9,13 @@
 ### 🧑‍💻 About me
 
 - 🚀 I work at the intersection of **Kubernetes**, **Azure**, and **AI/ML infrastructure**.
-- 🛠️ Long-time contributor to **[kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure)** and the broader Kubernetes ecosystem (node-problem-detector, test-infra, kubeflow, external-storage).
 - 🤖 Currently focused on **AI on Kubernetes**: contributing to **[KAITO](https://github.com/kaito-project/kaito)** and building **MCP (Model Context Protocol)** servers for Kubernetes & AKS — see [Azure/mcp-kubernetes](https://github.com/Azure/mcp-kubernetes) and [Azure/aks-mcp](https://github.com/Azure/aks-mcp).
-- 📡 Tinkering with **OpenTelemetry**, distributed systems, and developer tooling.
-- 🐹 Daily driver: **Go**. Also write **Python** and **JavaScript** for side projects.
+- 🐹 Daily driver: **Go**. Also write **Python**.
 
 ### 🔭 What I'm working on
 
 - ☁️ Cloud-native control planes and Azure integrations for Kubernetes
-- 🧠 Inference workloads and operator patterns for LLMs on Kubernetes (KAITO)
 - 🔌 MCP servers that let AI agents safely operate Kubernetes / AKS clusters
-- 📊 Migrating observability stacks from OpenCensus to OpenTelemetry
 
 ### 🌱 A few side projects
 
